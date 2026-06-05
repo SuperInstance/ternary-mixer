@@ -1,0 +1,6 @@
+[package]
+name = "ternary-mixer"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-channel ternary mixer — EQ, pan, effects sends, bus routing for agent populations"
+license = "MIT"
